@@ -584,6 +584,5 @@ $conf['404_fast_html'] = '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
  * Remove the leading hash sign to enable.
  */
 # $conf['theme_debug'] = TRUE;
-$databases['default']['default'] = array('database' => 'sitevs0090','username' => 'root','password' => 'logbull2016','host' => '54.165.156.253','port' => '','driver' => 'mysql','prefix' => '');
 
-$databases['default']['default'] = array('database' => 'cc17224641cd','username' => '8d535d93516d','password' => '67e2bcf761ce','host' => '54.165.156.253','port' => '','driver' => 'mysql','prefix' => '');
+$databases['default']['default'] = array('database' => 'subsiteskt0908_site_com','username' => '5baa1521ab99','password' => 'bd851df9636b','host' => '54.165.156.253','port' => '','driver' => 'mysql','prefix' => '');
